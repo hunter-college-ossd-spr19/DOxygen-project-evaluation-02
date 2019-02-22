@@ -16,16 +16,31 @@ yizongk(Yi Zong Kuang)
 <br><br><br><br>
 
 1. How many people are maintaining the project?
+    * Over a 100 contributor are listed on github to have applied changes to the master branch
 <br><br><br><br>
 
 1. How many contributors has the project had in the past year?
+    * There 26 contributors in the past year that was active.
 <br><br><br><br>
 
 1. How frequently do people commit? 
-Compute the number of commits per week for the past twelve weeks.
+Compute the number of commits per week for the past twelve weeks. (as of Feb 22th, 2019)
+    * This week: 1
+    * Last week: 11
+    * 3rd week:  11
+    * 4th week:  9
+    * 5th week:  7
+    * 6th week:  7
+    * 7th week:  26
+    * 8th week:  20
+    * 9th week:  29
+    * 10th week: 15
+    * 11th week: 7
+    * 12th week: 19
 <br><br><br><br>
 
 1. How many issues are currently open?
+    * 1883 open issues (as of Feb 22th, 2019)
 <br><br><br><br>
 
 1. How long do issues stay open?
