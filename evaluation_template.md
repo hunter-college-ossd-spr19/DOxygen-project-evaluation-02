@@ -1,9 +1,10 @@
 **Project Name**: 
-
+DOxygen project evaluation
 
 ---
 
 **Evaluating Team** (list members):
+Yi Zong Kuang (yizongk on github)
 
 ---
 
@@ -11,6 +12,7 @@
 
 
 1. How long ago was the last commit?
+ * February 18th, 2019
 <br><br><br><br>
 
 1. How many people are maintaining the project?
