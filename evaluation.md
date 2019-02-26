@@ -32,11 +32,11 @@ yizongk — Yi Zong Kuang
       <br>
 
 1. How many contributors has the project had in the past year?
-    * There 26 contributors in the past year that was active.
+    * There have been 15 contributors in the past year.
 <br>
 
 1. How frequently do people commit? 
-Compute the number of commits per week for the past twelve weeks. (as of Feb 22th, 2019)
+Compute the number of commits per week for the past twelve weeks. (as of Feb 22nd, 2019)
     * This week: 1
     * Last week: 11
     * 3rd week:  11
@@ -112,7 +112,7 @@ Compute the number of commits per week for the past twelve weeks. (as of Feb 22t
 
 1. How many pull requests were opened within the past month?
 
-   * 12 which remain open, 18 that have since been closed.
+   * There have been 7 proposed pull requests and 26 merged pull requests in the past month
   
     <br>
 
