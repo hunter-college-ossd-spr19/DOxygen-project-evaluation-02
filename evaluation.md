@@ -1,5 +1,5 @@
 **Project Name**: 
-DOxygen Project Evaluation
+[DOxygen Project Evaluation] (https://github.com/doxygen/doxygen.git) 
 
 ---
 
@@ -113,7 +113,8 @@ Compute the number of commits per week for the past twelve weeks. (as of Feb 22n
 1. How many pull requests were opened within the past month?
 
    * There have been 7 proposed pull requests and 26 merged pull requests in the past month
-  
+     
+
     <br>
 
 
@@ -125,4 +126,4 @@ Compute the number of commits per week for the past twelve weeks. (as of Feb 22n
 
 ### Summary
 
-This project is not one I would choose to participate in because communication amoung users and contributors seems limited, and there seem to be few resources for first time contributors. That said the project is well organized, and for someone who uses DOxygen regularly and is comfortable contributing to open source software this could be a great way to contribute to a project they are passionate about.
+Overall, because of the size and user base of this project, DOxygen is a very active open source project. However, this project is not one I would choose to participate in because communication amoung users and contributors seems limited, and there are few resources for first time contributors. That said, the project is well organized, and for someone who uses DOxygen regularly and is comfortable contributing to open source software this could be a great way to contribute to a project they are passionate about.
